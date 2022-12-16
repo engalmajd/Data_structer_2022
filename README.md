@@ -1,2 +1,2 @@
-# MecdiddinEbu-erfo_20080410022_finalodevi
+Github'da Data_structer_2022
 Veri yapiler Final Odevi
